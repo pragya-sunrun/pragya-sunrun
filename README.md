@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pragya-sunrun
-- 👀 I’m interested in honing my technical skills by doing projects.
-- 🌱 I’m currently learning python.
+- 👀 The Analyst
+- 🌱 CEE
 
 
 <!---
